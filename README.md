@@ -1,5 +1,7 @@
 # gold_prediction
-
+- Đây là mô hình học sâu (LSTM) dể dự đoán giá vàng.
+- Dữ liệu lấy từ 20 năm trước đến ngày chạy dự án.
+- Kịch bản: học 14 ngày dự đoán 7 ngày kế tiếp
 # Yêu cầu
 
 Trước khi chạy các file, hãy đảm bảo bạn đã cài đặt các thư viện cần thiết. Bạn có thể cài đặt chúng bằng cách chạy:
