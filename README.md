@@ -37,11 +37,6 @@ Khi chạy file `train.py`, mô hình LSTM sẽ được huấn luyện trên d�
 ## Xem kết quả trong thư mục result
 
 
-# Liên hệ
-
-Nếu bạn gặp phải vấn đề hoặc có bất kỳ câu hỏi nào về dự án, vui lòng liên hệ với tôi qua email:
-
-[khanh091103@gmail.com]
 
 ---
 
